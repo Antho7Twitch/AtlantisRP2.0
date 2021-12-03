@@ -229,4 +229,4 @@
 
 Un abrazo y espero que os guste la tremenda actualización y os animéis a rolear y a traer a más amigos y conocidos a rolear a Atlantis, esta actualización ha llevado mucho esfuerzo, tiempo y dinero y sin vuestro apoyo no sería posible haberlo llevado a cabo, ahora vamos a intentar que más gente conozca la gran comunidad que estamos formando y se quede con nosotros. 
 
-Con cariño, el equipo de programación de AtlantisRP. Osea yo :kekw: .
+Con cariño, el equipo de programación de AtlantisRP. Osea yo KEKW
