@@ -45,7 +45,7 @@
 
 ➡️ Añadido comando /trabajo que nos devolverá en el chat los siguientes datos: Trabajo, Rango.
 
-➡️ Añadidos los menús de llaves de vivienda y vehículos al menú del F5.
+➡️ Añadidos los menús de llaves de vivienda, facturas y vehículos al menú del F5.
 
 
 
