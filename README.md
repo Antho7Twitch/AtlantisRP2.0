@@ -161,3 +161,67 @@ Changelog de la nueva versión del servidor AtlantisRP
 ➡️ Añadido nuevo chat interdepartamental entre LSPD y SAFD con el comando /rr [Mensaje], para las comunicaciones internas.
 
 
+🔴 **Changelog 03/12/2021 22:00h** 🔴 *AtlantisRP 2.0* **3/3**
+
+
+🚓**[LSPD]**👮
+
+➡️ Añadida nueva armería policial con el nuevo menú de inventario.
+
+
+
+**👩‍⚕️[SAFD]👩‍⚕️**
+
+➡️ Añadida nueva farmacia para recoger los productos sanitarios con el nuevo menú de inventario.
+
+
+
+**📱[Teléfono Móvil]📱**
+
+➡️ Hay varios cambios con respecto al teléfono móvil que enumeraré a continuación.
+
+➡️ Se ha retirado el antiguo script del móvil, la verdad que me dio bastante pena quitarlo porque llevábamos mucho tiempo con él y funcionaba genial pese a un par de fallitos que tenía, pero... ¡Era momento de renovarse!
+
+➡️ Implementado un nuevo móvil actualizado a su última versión.
+
+➡️ Ahora los números de teléfono serán como en España `666151617` en vez de como en América `555-1516`
+
+➡️ Se ha retirado la aplicación de *Mors Mutual* del mismo, ya que ahora con los garajes en las propias viviendas y los que hay públicos consideramos que es más que suficiente.
+
+➡️ Añadido el sistema de Seguimiento GPS en tiempo real, que es como la función IRL de compartir la ubicación en tiempo real de WhatsApp o Telegram.
+
+➡️ Añadido el nuevo sistema de banco que permitirá realizar transferencias bancarias desde el propio teléfono móvil teniendo la ID o el número de teléfono del jugador a quien queramos enviar el dinero, con el número de teléfono se podrá enviar el dinero INCLUSO aunque el jugador esté OFFLINE (**Nota:** No hagáis transferencias bancarias todavía, puesto que no es funcional hasta que se avise)
+
+➡️ Se han añadido varias opciones para poder llamar con número oculto o guardar el número de teléfono desde los mensajes.
+
+➡️ Se han añadido las fundas, los fondos de pantalla y los tonos de llamada del antiguo teléfono, para que no las echéis de menos :stuck_out_tongue: y se han añadido un par de fundas nuevas.
+
+➡️ Se ha añadido el sistema de Twitter IC muy parecido al del antiguo teléfono, también podréis ver los Tweets que se suban en el canal IC #〚🐦〛twitter-ic
+
+➡️ Se podrán seguir subiendo las imágenes como antiguamente al Twitter de forma automática utilizando la cámara en Twitter.
+
+➡️ Ahora se podrá configurar el **VOLUMEN** del tono de llamada, pudiendo incluso llegar a ponerlo en silencio si así lo deseamos.
+
+➡️ Se han especificado en la lista de tonos de llamada, cuales **NO** tienen copyright :copyright: para que estéis tranquilos los Creadores de Contenido 😜
+
+➡️ Ahora al abrir el móvil se cargará el minimapa en grande y al cerrarlo se pondrá pequeño nuevamente.
+
+
+
+**🚗[Vehículos]🚙**
+
+➡️ Implementados en el concesionario VIP 1 los vehículos del DLC Los Santos Tuners.
+
+➡️ Implementados en el concesionario VIP 3 los vehículos siguientes: Nissan 180SX, Nissan 370Z, Nissan Silvia s15, Nissan Skyline GT-R, Nissan GTR R-35, Nissan S2000, Nissan Titan, Toyota Supra, BMW M5 F90, BMW M4 F82, BMW S1000RR, Renault 5 Copa Turbo, Yamaha R6, Fiat Punto, Volkswagen Golf MK6, Honda Civic Type-R, Audi RS3 2018, Range Rover Evoque, Harley Davidson HVROD, Shelby GT500, Ford Mustang Boss 302, Subaru Impreza WRX STI,  y Aston Martin DB11.
+
+
+
+**👖 [Ropa]👗**
+
+➡️ Implementada 1 prenda con 5 texturas de la serie de Netflix y Riot: Arcane.
+
+➡️ Implementadas 2 prendas con 10 texturas en total de varias series de TV y Animes (Rick & Morty, Pokémon, South Park...).
+
+
+
+...Y seguramente me olvide de algo, recordad que cualquier cosa que veáis que funciona mal o tiene algún problema la podéis reportar con un ticket de #〚🎫〛reportar-bug, **RECORDAD** que para enviar un buen ticket de bug tenéis que enviar también una captura de pantalla del propio bug y de la consola del cliente (F8), sin eso **no podemos hacer nada** y se borrará el ticket inmediatamente.
