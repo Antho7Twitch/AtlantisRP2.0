@@ -1,6 +1,6 @@
 # AtlantisRP2.0
 
-Changelog de la nueva versión del servidor AtlantisRP
+
 
 🔴**Changelog 03/12/2021 22:00h** 🔴 *AtlantisRP 2.0* **1/3**
 
