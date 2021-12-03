@@ -225,3 +225,8 @@
 
 
 ...Y seguramente me olvide de algo, recordad que cualquier cosa que veáis que funciona mal o tiene algún problema la podéis reportar con un ticket de #〚🎫〛reportar-bug, **RECORDAD** que para enviar un buen ticket de bug tenéis que enviar también una captura de pantalla del propio bug y de la consola del cliente (F8), sin eso **no podemos hacer nada** y se borrará el ticket inmediatamente.
+
+
+Un abrazo y espero que os guste la tremenda actualización y os animéis a rolear y a traer a más amigos y conocidos a rolear a Atlantis, esta actualización ha llevado mucho esfuerzo, tiempo y dinero y sin vuestro apoyo no sería posible haberlo llevado a cabo, ahora vamos a intentar que más gente conozca la gran comunidad que estamos formando y se quede con nosotros. 
+
+Con cariño, el equipo de programación de AtlantisRP. Osea yo :kekw: .
