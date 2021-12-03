@@ -2,9 +2,9 @@
 
 Changelog de la nueva versión del servidor AtlantisRP
 
-🔴Changelog 03/12/2021 22:00h 🔴 *AtlantisRP 2.0* **1/3**
+🔴**Changelog 03/12/2021 22:00h** 🔴 *AtlantisRP 2.0* **1/3**
 
-📋[Administración]📋
+📋**[Administración]**📋
 
 ➡️ Actualizado el Anticheat del servidor
 
@@ -20,25 +20,25 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-☀️[Clima]🌦️
+☀️**[Clima]**🌦️
 
 ➡️ Cambiado el script de los climas en el servidor, ahora el tiempo cambiará cada día del juego (Aprox 40 minutos IRL)
 
 
 
-🚶[Entorno]🚶‍
+🚶**[Entorno]**🚶‍
 
 ➡️ Añadido sistema de Peds de entorno para ocupar los puestos de Badulaques, Licorerías, LSPD...
 
 
 
-📋[Multi-Personaje]📋
+📋**[Multi-Personaje]**📋
 
 ➡️ Añadido sistema de Multi-Personaje para que podáis crear un personaje más por medio de #〚📝〛info-donaciones. [Recordamos que el personaje añadido no puede compartir absolutamente nada de información con el anterior, ni ser familia ni compartir propiedades ni amistades NI INFORMACIÓN]
 
 
 
-📋[FrameWork]📋
+📋**[FrameWork]**📋
 
 ➡️ Añadido comando /info que nos devolverá en el chat los siguientes datos: ID, Nombre de PJ, Grupo, Trabajo.
 
@@ -48,7 +48,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-📋[Chat]📋
+📋**[Chat]**📋
 
 ➡️ Modificada la manera en que salen los chats en el juego para los /me, /do, /mes, /dos, /dados, /id, /ayuda.
 
@@ -60,7 +60,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🖼️[Pantalla de Carga]🖼️
+🖼️**[Pantalla de Carga]**🖼️
 
 ➡️ Añadida nuevo script de pantalla de carga al servidor.
 
@@ -70,7 +70,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🗺️[Mapa]🗺️
+🗺️**[Mapa]**🗺️
 
 ➡️ Modificados los blips de las empresas del mapa (reducidos o ampliados según necesidad).
 
@@ -82,7 +82,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🗝️[Robos de vehículos]🔑
+🗝️**[Robos de vehículos]**🔑
 
 ➡️ Ahora para robar vehículos de la calle habrá una posibilidad pequeña de que estén abiertos, de lo contrario se tendrán que forzar con una **Ganzúa** (un ítem que se tiene que descubrir IC de dónde sacarlo), la cual tiene una probabilidad de fracasar el forzado del vehículo y tener que huir de la zona.
 
@@ -92,7 +92,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🔪[Actualización Actividades Ilegales]🔫
+🔪**[Actualización Actividades Ilegales]**🔫
 
 ➡️ Información Secreta, se tiene que descubrir IC ⛔
 
@@ -102,7 +102,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🏘️[Housing]🏠
+🏘️**[Housing]**🏠
 
 ➡️ Retiradas **TODAS** las viviendas del antiguo sistema de propiedades, se han dejado solamente los Moteles y las Oficinas.
 
@@ -118,7 +118,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🚙[Sistema de Garajes]🅿️
+🚙**[Sistema de Garajes]**🅿️
 
 ➡️ Añadido nuevo sistema de garajes 100% implementado con el nuevo sistema de viviendas
 
@@ -126,7 +126,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🍔[Sistema de Inventarios]🍹
+🍔**[Sistema de Inventarios]**🍹
 
 ➡️ Añadido nuevo sistema de inventarios con imágenes y 100% visual, tiene varios keybinds que vienen por defecto para no tener que arrastrar las cosas, es bastante intuitivo pero para cualquier duda nos tenéis por el chat de #〚❓〛dudas.
 
@@ -138,7 +138,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-🏦[Banco]🏦
+🏦**[Banco]**🏦
 
 ➡️ Corregido el script del banco y sustituidos los símbolos de € por los de $ (En el script venía en € y nadie lo reportó KEKW 
 
@@ -146,7 +146,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-💸 [Facturación]💸
+💸 **[Facturación]**💸
 
 ➡️ Corregidas varias traducciones que faltaban en el script. Lo mismo que dije arriba, si falta alguna #〚🎫〛reportar-bug.
 
@@ -154,7 +154,7 @@ Changelog de la nueva versión del servidor AtlantisRP
 
 
 
-📋[Chat de Trabajos]📋
+📋**[Chat de Trabajos]**📋
 
 ➡️ Añadido nuevo chat de trabajos con el comando /r [Mensaje], para poder tener una radio interna en los trabajos de Whitelist.
 
